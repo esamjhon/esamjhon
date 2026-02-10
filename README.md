@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @esamjhon
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me, message me on facebook @https://www.facebook.com/samjhon08/
+- 👀 I’m an enthusiastic programmer.
+- 🌱 I’m currently learning AI/ML.
+- 💞️ I’m looking to collaborate on web development.
+- 📫 How to reach me, message me on Facebook @https://www.facebook.com/samjhon08/
 
 <!---
 esamjhon/esamjhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
